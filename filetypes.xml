@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="hjhj" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
+      <mapping pattern="爬虫" type="Python" />
     </extensionMap>
   </component>
 </application>
